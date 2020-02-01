@@ -3,7 +3,6 @@ tap "homebrew/cask-drivers"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 
-cask "firefox"
 cask "font-fira-code"
 cask "font-hack"
 cask "google-chrome"
@@ -18,6 +17,7 @@ cask "rectangle"
 cask "whatsapp"
 cask "virtualbox"
 cask "adoptopenjdk8"
+cask "brave-browser"
 
 # Quick Look Plugins (https://github.com/sindresorhus/quick-look-plugins)
 cask "qlcolorcode"
